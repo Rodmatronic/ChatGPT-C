@@ -1,0 +1,8 @@
+# This is a simple hello world program written by Rod.
+
+start(Hello_world)
+
+void Hello_world()
+{
+    print("Hello, world!")
+}
